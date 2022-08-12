@@ -1,0 +1,11 @@
+.sp{
+    width: 30%;
+    height: auto;
+    float: left;
+    cursor: pointer;
+
+}
+.sp:hover{
+    animation: sp_hover linear .2s forwards;
+    box-shadow: 0px 30px 40px 0px rgb(0 0 0 / 20%);
+}
